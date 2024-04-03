@@ -1,0 +1,5 @@
+Sor
+* (Çetiner, 1989, pp. 25-26). ----> alıntı yapıldığında sayfayı pp şeklinde gösteriyor. s ile göstermesi gerekir mi.
+
+* içindekiler sayfa numarası göstermeme kısmını yapamadım.
+
