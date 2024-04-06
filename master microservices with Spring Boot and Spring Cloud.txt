@@ -2,3 +2,4 @@ Section 7/198(Step 12)
 Connecting Currency Exchange Microservice with Zipkin
 -Microservisler arasında giden bir request'in hangi mikroservislerde ne kadar süre harcadığını görmek için "Distributed Tracing" kullanılır.
 -"Distributed Tracing"de kullanılan araçlardan birisi de Zipkin'dir.
+
