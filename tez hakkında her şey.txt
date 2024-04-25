@@ -4,3 +4,12 @@ Sor
 
 * içindekiler sayfa numarası göstermeme kısmını yapamadım.
 
+* kitaptan alıntı yaparken doğru yapıldımı yazılım mimarileri nedir kısmı. 2 cümle ardarda alıntı yaptım fakat sadece 2.cümlenin sonuna alıntı yazdım. doğru mu?
+
+* Tanımı youtube'dan alıp yazarsam ne olacak
+
+* benim aklıma gelen bir cümle daha önce  başka bir yerde geçiyorsa ne olacak.
+
+
+
+SAGA, DDD, Event Driven Architecture
