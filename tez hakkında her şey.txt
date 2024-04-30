@@ -10,6 +10,23 @@ Sor
 
 * benim aklıma gelen bir cümle daha önce  başka bir yerde geçiyorsa ne olacak.
 
+* yazılım mimarisinin yararları kısmında yeniden kullanılabilirlik kısmının nerede geçtiğini bulamadım. Nasıl olacak. Ona yakın olarak "Software Architecture in practice" kitabından
+alıntı yapmış gibi gösterdim. nasıl olacak.
+
+* TÖF'na yazdığım şekildeki gibi olmalı birebir?
+
+* Mesela monolitik mimariye başlarken epey süre makaleler arasında monolitik tanımı arıyorum bu doğru mu?
+
+* Konferans bildirisi, makale, Tez, oluştururken tereddütler.
+
+* Son yazdığın "From Monolith to Microservices: A Dataflow-Driven Approach" doğru mu?
+
+*Tez'den alıntı yaprken nasıl olacak öyle bir seçenek yok.
+
+*et al şeklindeki gösterim nasıl düzeltilecek.
+
+*konuşlandırma(deploy) heryerde böylemi olacak.
+
 
 
 SAGA, DDD, Event Driven Architecture
