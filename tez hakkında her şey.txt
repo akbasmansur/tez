@@ -29,9 +29,13 @@ alıntı yapmış gibi gösterdim. nasıl olacak.
 
 *kaynakça da Boston yazdım ama 100 tane şehir var.
 
-
+*Jayasooriya iki maddeye de mi yzacağız bir tane yeterli mi?
 
 SAGA, DDD, Event Driven Architecture
 DDD, Cloud Computing Hülya VURAL Doktora Tezi
 
 *Emektar SOA mı monolitik mi Umut'a sor.
+
+
+Bilgi teze yaz.
+* test ve debug işlemleri daha karmaşık ve zor.
