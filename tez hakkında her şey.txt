@@ -1,4 +1,8 @@
 Sor
+
+*Mikroservis terimi yazılım dünyasına çeşitli aşamalardan geçerek gelmiştir. Dr. Peter Rodgers, 2005 yılında “Micro-Web-Services” terimini ilk kullanan kişi olarak kabul edilmektedir. “Mikroservis” teriminin doğrudan kullanımı ise 2014 yılında Martin Fowler ve ThoughtWorks’teki meslektaşlarının bu kavramı sağlam ve ölçeklenebilir sistemler oluşturmanın bir yolu olarak tartışmasıyla önem kazandı (Growth Acceleration Partners, 2024).
+ardarda  iki cümlede aynı siteden alıntı nasıl olacak.
+
 * Alıntı kurallarına uyulmuş mu?
 * (Çetiner, 1989, pp. 25-26). ----> alıntı yapıldığında sayfayı pp şeklinde gösteriyor. s ile göstermesi gerekir mi.
 
@@ -31,8 +35,18 @@ alıntı yapmış gibi gösterdim. nasıl olacak.
 
 *Jayasooriya iki maddeye de mi yzacağız bir tane yeterli mi?
 
+*Direkt alıntı olmuyor ingilizce olduğu için.yine de sor. 
+ Direkt alıntı yaparken doğru yaptın mı bi sor? 
+
+*Şekil 2'yi bir yerden fakat altına yazdığım parağrafları kendim ürettim. intihal sayılır mı?
+
+*framework ve deploy'un metin içinde kullanımı.
+
+***mesele "Hızlı bir şekilde geliştirilebilir." ifadesi 100 yerde geçiyordur. illaki birini bulup atıf mı yapmalıyım.
+
 SAGA, DDD, Event Driven Architecture
 DDD, Cloud Computing Hülya VURAL Doktora Tezi
+Agile devops
 
 *Emektar SOA mı monolitik mi Umut'a sor.
 
