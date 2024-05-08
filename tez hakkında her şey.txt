@@ -42,6 +42,8 @@ alıntı yapmış gibi gösterdim. nasıl olacak.
 
 *framework ve deploy'un metin içinde kullanımı.
 
+*Newman kitabı için şehir belirtmedin sorun olur mu.S
+
 ***mesele "Hızlı bir şekilde geliştirilebilir." ifadesi 100 yerde geçiyordur. illaki birini bulup atıf mı yapmalıyım.
 
 SAGA, DDD, Event Driven Architecture
