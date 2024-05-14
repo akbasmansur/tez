@@ -33,7 +33,7 @@ alıntı yapmış gibi gösterdim. nasıl olacak.
 
 *kaynakça da Boston yazdım ama 100 tane şehir var.
 
-*Jayasooriya iki maddeye de mi yzacağız bir tane yeterli mi?
+*Jayasooriya iki maddeye de mi yazacağız bir tane yeterli mi?
 
 *Direkt alıntı olmuyor ingilizce olduğu için.yine de sor. 
  Direkt alıntı yaparken doğru yaptın mı bi sor? 
@@ -46,12 +46,15 @@ alıntı yapmış gibi gösterdim. nasıl olacak.
 
 ***mesele "Hızlı bir şekilde geliştirilebilir." ifadesi 100 yerde geçiyordur. illaki birini bulup atıf mı yapmalıyım.
 
+* DEVOPS AND MICROSERVICES adlı makale de alıntı yapacağım cümle 1.si ama 2.cümle sonunda atıf var şimdi 1.cümleye o atıfa mı ait.
+
 SAGA, DDD, Event Driven Architecture
 DDD, Cloud Computing Hülya VURAL Doktora Tezi
 Agile devops
 
 *Emektar SOA mı monolitik mi Umut'a sor.
 
+*Tezden alıntı yapınca nasıl olacak.
 
 Bilgi teze yaz.
 * test ve debug işlemleri daha karmaşık ve zor.
