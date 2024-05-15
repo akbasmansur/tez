@@ -56,5 +56,10 @@ Agile devops
 
 *Tezden alıntı yapınca nasıl olacak.
 
-Bilgi teze yaz.
-* test ve debug işlemleri daha karmaşık ve zor.
+*Wikipedia dan alıntı yaptım ancak yazar yok nasıl göstereceğim. Bir de wiki'de de başka yere kaynak gösteriyor o nasıl olacak
+
+*etki alanı domain hangi kelimeyi kullanmak mantıklı
+
+*Ubiquitous Language Ubiquitous Dil mi yazılacak
+
+*youtube'daki video nasıl kaynak gösterilir.
