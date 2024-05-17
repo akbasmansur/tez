@@ -63,3 +63,7 @@ Agile devops
 *Ubiquitous Language Ubiquitous Dil mi yazılacak
 
 *youtube'daki video nasıl kaynak gösterilir.
+
+*günlük makalesi süreli yayın makalesi hangisini kullancağım.
+
+*Hizmet Olarak Altyapı (IaaS), doğrumu
