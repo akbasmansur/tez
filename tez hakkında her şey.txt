@@ -91,4 +91,8 @@ Agile devops
 	Adı ---> The NIST Definition of Cloud Computing
 	https://csrc.nist.gov/pubs/sp/800/145/final
 	
-	
+	Scribbr Citation Generator'da işe yaramadı.
+
+*docker internet sitesinden tanımı aldım gerek varmı alıntı yapmaya.
+
+*
