@@ -67,3 +67,28 @@ Agile devops
 *günlük makalesi süreli yayın makalesi hangisini kullancağım.
 
 *Hizmet Olarak Altyapı (IaaS), doğrumu
+
+*şekil 3 anon
+
+*cloud computing'in tanımını alırken yaşadığım sorunlar.
+	Yayıncı belli değil şehir belli değil. 
+	Kitap bölümümü kitap mı 
+	google akademik deki alıntıda da göstermedi bilgileri.
+	https://www.sciencedirect.com/science/article/abs/pii/B978012804018815003X
+	https://www.sciencedirect.com/book/9780128040188/application-performance-management-apm-in-the-digital-enterprise
+	
+	Appendix C - The NIST Definition of Cloud Computing,
+	Editor(s): Rick Sturm, Carol Pollard, Julie Craig,
+	Application Performance Management (APM) in the Digital Enterprise,
+	Morgan Kaufmann,
+	2017,
+	Pages 267-269,
+	ISBN 9780128040188,
+	https://doi.org/10.1016/B978-0-12-804018-8.15003-X.
+	(https://www.sciencedirect.com/science/article/pii/B978012804018815003X)
+	indirilenlere bak.
+	sci-hub'a bakabilirsin.
+	Adı ---> The NIST Definition of Cloud Computing
+	https://csrc.nist.gov/pubs/sp/800/145/final
+	
+	
