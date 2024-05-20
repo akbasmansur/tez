@@ -95,4 +95,4 @@ Agile devops
 
 *docker internet sitesinden tanımı aldım gerek varmı alıntı yapmaya.
 
-*
+* "Containerları" kelimesi doğru mu?
