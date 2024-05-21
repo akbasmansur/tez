@@ -1,3 +1,4 @@
+
 Sor
 
 *Mikroservis terimi yazılım dünyasına çeşitli aşamalardan geçerek gelmiştir. Dr. Peter Rodgers, 2005 yılında “Micro-Web-Services” terimini ilk kullanan kişi olarak kabul edilmektedir. “Mikroservis” teriminin doğrudan kullanımı ise 2014 yılında Martin Fowler ve ThoughtWorks’teki meslektaşlarının bu kavramı sağlam ve ölçeklenebilir sistemler oluşturmanın bir yolu olarak tartışmasıyla önem kazandı (Growth Acceleration Partners, 2024).
@@ -93,6 +94,8 @@ Agile devops
 	
 	Scribbr Citation Generator'da işe yaramadı.
 
-*docker internet sitesinden tanımı aldım gerek varmı alıntı yapmaya.
+* docker internet sitesinden tanımı aldım gerek varmı alıntı yapmaya.
 
-* "Containerları" kelimesi doğru mu?
+* kayıt defterleri(registry), bir Docker Image’ının  doğru mu?
+
+* mesela docker sitesi için yazar kuruluşu seçtim doğru mu
