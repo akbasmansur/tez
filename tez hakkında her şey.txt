@@ -99,3 +99,5 @@ Agile devops
 * kayıt defterleri(registry), bir Docker Image’ının  doğru mu?
 
 * mesela docker sitesi için yazar kuruluşu seçtim doğru mu
+
+*1.3.3 Mikroservis Mimarisi doğru mu?
