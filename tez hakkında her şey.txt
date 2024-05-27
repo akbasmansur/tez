@@ -115,3 +115,7 @@ Agile devops
 2.8.	Monolitik Mimariden Mikroservis Mimarisine Geçiş*****
 *************************************************************
 *************************************************************
+
+Teze eklenebilecek konular
+Apache Kafka
+Rancher
