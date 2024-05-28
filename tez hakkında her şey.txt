@@ -119,3 +119,42 @@ Agile devops
 Teze eklenebilecek konular
 Apache Kafka
 Rancher
+
+
+*********************************************************************************************************************************
+Methodology															*
+																*
+Approach: Describe how you will evaluate microservice architecture for SGK.							*
+Data Collection: Specify the methods for data gathering (e.g., interviews, system metrics, document analysis).			*
+Analysis Techniques: Detail how the collected data will be analyzed.								*
+Implementation Strategy														*
+																*
+Phased Implementation: Outline a phased approach for migrating to microservices.						*
+Risk Management: Identify potential risks and mitigation strategies.								*
+Case Studies and Benchmark Analysis												*
+																*
+Successful Deployments: Analyze case studies of similar organizations that have successfully implemented microservices.		*
+Lessons Learned: Extract and discuss lessons that could be applicable to SGK.							*
+Evaluation and Results														*
+																*
+Performance Metrics: Define and measure performance before and after implementation.						*
+Cost-Benefit Analysis: Conduct a financial analysis to determine the economic impact.						*
+User and Staff Feedback: Evaluate the response from internal stakeholders.							*
+Discussion															*
+																*
+Findings: Summarize the key findings from the evaluation.									*
+Recommendations: Offer recommendations based on the results and the literature reviewed.					*
+Conclusion															*
+																*
+Summary: Recap the main points and conclusions drawn from the research.								*
+Future Research: Suggest areas for further research or continuous improvement.							*
+References															*
+																*
+Include a comprehensive list of all scholarly articles, books, and other sources cited in your thesis.				*
+Appendices															*
+																*
+Additional Data: Provide supplementary information, charts, code snippets, or diagrams that 					*
+support your research but are too detailed for the main body of the thesis.							*
+By structuring your thesis with these sections, you'll be able to provide 							*
+a thorough analysis of microservice architecture's potential impact on SGK, backed by both theoretical and practical insights.  *
+*********************************************************************************************************************************
