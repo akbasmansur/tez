@@ -1,0 +1,3 @@
+SGK yazılımlarının(yaşam döngüsü, deployu a'sı b'si neyse) kendine özgü bir durumu varsa teze ekle
+
+mesela kurumun çoğunda java kullanılıyor. Bir geçişte bunun nasıl etkileri olur veya olur mu?
