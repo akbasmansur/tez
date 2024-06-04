@@ -1,3 +1,37 @@
+CHAPTERS
+INTRODUCTION
+SOFTWARE ARCHITECTURE
+1. DEFINITION
+2. BENEFITS OF SOFTWARE ARCHITECTURE
+3. TYPES OF SOFTWARE ARCHITECTURE
+3.1. Monolithic Architecture
+3.2. Service Oriented Architecture
+3.3. Microservice Architecture
+MICROSERVICES ARCHITECTURE
+1. HISTORY OF MICROSERVICES ARCHITECTURE	
+2. DEFINITION AND CHARACTERISTICS OF MICROSERVICES ARCHITECTURE
+2.1. Advantages and Disadvantages of Microservice Architecture
+2.2. Comparison of Microservice Architecture with Monolithic Architecture
+2.3. Comparison of Microservice Architecture with SOA
+3. CONCEPTS RELATED TO MICROSERVICES ARCHITECTURE
+3.1. Domain-Driven Design (DDD)
+3.2. Cloud Computing
+3.3. Docker
+3.3.1. Basic Components of Docker
+3.3.2. Virtual Machine and Docker Comparison
+3.3.2.1. Architecture
+3.3.2.2. Resource Management
+3.3.2.3. Performance
+3.3.2.4. Security
+3.4. Kubernetes
+3.4.1. Basic Components of Kubernetes
+3.4.1.1.Master Node
+3.4.1.2.Worker Node
+...
+
+For the above outline I created for the thesis, complete the part I marked with ... by evaluating my previous question.
+tez için oluşturduğum yukarıdaki outline için bir önceki sorumu da değerlendirerek ... ile işaretlediğim kısmını tamamla.
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
 TEŞEKKÜR	i
 BEYAN	ii
 ÖZET	iii
