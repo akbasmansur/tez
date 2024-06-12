@@ -1,3 +1,67 @@
 SGK yazılımlarının(yaşam döngüsü, deployu a'sı b'si neyse) kendine özgü bir durumu varsa teze ekle
 
 mesela kurumun çoğunda java kullanılıyor. Bir geçişte bunun nasıl etkileri olur veya olur mu?
+
+On top of this, you must continue to meet the needs of the old system for a while, solve its errors, make new improvements, and continue to develop the new system. 
+Since the two require different mindsets, you must be able to move back and forth from one to the other. This going back and forth will obviously waste time.
+
+To ensure orchestration within asynchronous structures, you must integrate new technologies, discard old ones, and start the testing processes from the beginning.
+You should write all unit and integration tests from scratch.
+You should even change your testing logic and start testing by taking physical errors such as connection problems into account.
+
+With automatic testing tools, flexible load balancers, installation of virtualization architectures and ensuring their security, there is a lot of dev-ops work that most developers do not like.
+
+The research I will do will be a preliminary research on the transition of some programs in government institutions to microservice architecture.
+Considering the above information, answer the following questions.
+What might be the requirements in a government institution that has not used microservice architecture before?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+On top of this, you must continue to meet the needs of the old system for a while, solve its errors, make new improvements, and continue to develop the new system. 
+Since the two require different mindsets, you must be able to move back and forth from one to the other. This going back and forth will obviously waste time.
+
+To ensure orchestration within asynchronous structures, you must integrate new technologies, discard old ones, and start the testing processes from the beginning.
+You should write all unit and integration tests from scratch.
+You should even change your testing logic and start testing by taking physical errors such as connection problems into account.
+
+With automatic testing tools, flexible load balancers, installation of virtualization architectures and ensuring their security, there is a lot of dev-ops work that most developers do not like.
+
+must domain model. 
+must Observability.
+
+The research I will do will be a preliminary research on the transition of some programs in government institutions to microservice architecture.
+Considering the above information, answer the following questions.
+What might be the requirements in a government institution that has not used microservice architecture before?
