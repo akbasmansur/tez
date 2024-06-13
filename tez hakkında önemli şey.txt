@@ -57,7 +57,8 @@ To ensure orchestration within asynchronous structures, you must integrate new t
 You should write all unit and integration tests from scratch.
 You should even change your testing logic and start testing by taking physical errors such as connection problems into account.
 
-With automatic testing tools, flexible load balancers, installation of virtualization architectures and ensuring their security, there is a lot of dev-ops work that most developers do not like.
+With automatic testing tools, flexible load balancers, installation of virtualization architectures and ensuring their security, 
+there is a lot of dev-ops work that most developers do not like.
 
 must domain model. 
 must Observability.
@@ -65,3 +66,79 @@ must Observability.
 The research I will do will be a preliminary research on the transition of some programs in government institutions to microservice architecture.
 Considering the above information, answer the following questions.
 What might be the requirements in a government institution that has not used microservice architecture before?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Monolitik bir mimariden mikro hizmet mimarisine geçmeyi planlayan bir devlet kurumunda, başarılı ve verimli bir geçiş sağlamak için çeşitli önkoşullar ve stratejik girişimler 
+dikkate alınmalıdır. İşte böyle bir kurum için ayrıntılı gereksinimler:
+
+1. **Altyapı Hazırlığı**: Mikro hizmetlerin desteklenmesi için sağlam ve ölçeklenebilir bir altyapının kurulması şarttır. Bu, konteynerizasyon için Docker ve orkestrasyon 
+için Kubernetes gibi teknolojilerin benimsenmesini ve altyapının mikro hizmetlerin dağıtılmış doğasını etkili bir şekilde yönetebilmesini sağlamayı içerir.
+
+2. **Yetkinlik Oluşturma**: Mikro hizmetler geleneksel mimarilerden farklı bir dizi beceri gerektirdiğinden personel eğitimi çok önemlidir. Eğitim, çevik geliştirme ve operasyonları 
+kolaylaştırmak için modern DevOps uygulamalarını, bulut tabanlı teknolojileri ve sürekli entegrasyon ve dağıtım (CI/CD) boru hatlarını kapsamalıdır.
+
+3. **Hizmet Ayrıştırma**: Mevcut monolitik uygulamaları mikro hizmetlere ayrıştırmak için metodik bir yaklaşım gereklidir. Bu, bağımsız olarak geliştirilebilen, dağıtılabilen ve 
+ayrı hizmetler olarak ölçeklendirilebilen farklı iş yeteneklerinin tanımlanmasını içerir.
+
+4. **Veri Stratejisi**: Mikro hizmetlere geçiş, merkezi bir veritabanından dağıtılmış bir veri yönetimi yaklaşımına geçişi gerektirir. Her mikro hizmet kendi veri modeline sahip 
+olmalı ve gevşek bağlantı ve daha iyi ölçeklenebilirlik sağlamak için verilerini bağımsız olarak işlemelidir.
+
+5. **Ağ Tasarımı ve Güvenliği**: Mikro hizmetler arasındaki dinamik iletişimi desteklemek için ağ yönetimini geliştirmek çok önemlidir. Güvenli erişim için API ağ geçitleri 
+ve hizmetten hizmete iletişimi yönetmek için hizmet ağları dahil olmak üzere güvenlik önlemlerine öncelik verilmelidir.
+
+6. **Kapsamlı Test Çerçevesi**: Mikro hizmetlere geçiş, sıfırdan birim ve entegrasyon testleri yazmayı içeren yeni bir test stratejisi gerektirir. 
+Testler yalnızca yazılım işlevlerini değil, aynı zamanda ağ sorunları gibi altyapı arızalarına karşı dayanıklılık testlerini de kapsamalıdır.
+
+7. **Gözlenebilirlik ve İzleme**: Mikro hizmetlerin farklı ortamlardaki davranışlarını izlemek için etkili izleme ve günlük kaydı uygulanması esastır. 
+Merkezi günlük kaydı, dağıtık izleme ve gerçek zamanlı izleme araçları, içgörü sağlamak ve sorun gidermeyi kolaylaştırmak için entegre edilmelidir.
+
+8. **Sürekli İyileştirme ve Bakım**: Kurum, mikro hizmetleri kademeli olarak uygularken eski sistemi korumalıdır. Bu, çift odaklı bir yaklaşım gerektirir: 
+eski sistemdeki sorunları yönetmek ve çözmek ve aynı zamanda yeni mikro hizmet mimarisini geliştirmek ve iyileştirmek.
+
+9. **Düzenleyici Uyumluluk ve Yönetişim**: Devlet düzenlemelerine ve standartlarına uyum kritik önem taşır. 
+Mikro hizmet mimarisi, sıkı güvenlik ve veri koruma gereksinimlerini karşılayacak şekilde tasarlanmalı ve tüm hizmetlerin geçerli yasa ve politikalara uygun olması sağlanmalıdır.
+
+10. **Kültürel Dönüşüm**: Mikro hizmetlerin benimsenmesi, kurumsal kültürde önemli bir değişim gerektirir. 
+Bu geçiş, mikro hizmet operasyonlarının çevik ve bağımsız doğasını destekleyen bir ortamı teşvik ederek ekipler arasında yenilik, sürekli öğrenme ve işbirliği kültürünü desteklemelidir.
+
+Bu gerekliliklerin ele alınması yalnızca mikro hizmet mimarisine sorunsuz geçişe yardımcı olmakla kalmayacak, aynı zamanda kurumun ölçeklenebilir, 
+güvenilir ve verimli kamu hizmetleri sunma becerisini de geliştirecektir.
