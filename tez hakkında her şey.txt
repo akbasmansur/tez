@@ -1,4 +1,4 @@
-
+D
 
 DevOps bölümünü yaz. 1.Bölümdeki mikroservis mimarisinde az da olsa bir şeyler yaz. 
 Stratejik uygunluk ve fizibilite bölümündeki Tavsiye bölümünü zaten tezin sonunda vereceğim için oraya taşıyorum. 
