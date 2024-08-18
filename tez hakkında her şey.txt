@@ -1,8 +1,10 @@
-D
 
-DevOps bölümünü yaz. 1.Bölümdeki mikroservis mimarisinde az da olsa bir şeyler yaz. 
-Stratejik uygunluk ve fizibilite bölümündeki Tavsiye bölümünü zaten tezin sonunda vereceğim için oraya taşıyorum. 
-Gerek olursa yeniden oraya alırım. Resimlerin yazılarını ayarlamayı unutma resim bir sayfada açıklaması diğer sayfada olmasın. 
+	DevOps bölümünü yaz. 
+
+	1.Bölümdeki mikroservis mimarisinde az da olsa bir şeyler yaz. 
+
+Stratejik uygunluk ve fizibilite bölümündeki Tavsiye bölümünü zaten tezin sonunda vereceğim için oraya taşıyorum. Gerek olursa yeniden oraya alırım. 
+Resimlerin yazılarını ayarlamayı unutma resim bir sayfada açıklaması diğer sayfada olmasın. 
 Sayfa sayısı artması için SAGA dahil edilebilir. Mikroservisler arası iletişim yöntemleri yazılabilir. 
 GEÇİŞ Senaryosu anlatırken Javayı söyledin ama Spring boot framework’ünü belirtmedin. Konuyu genişletmek için kullanabilirsin. 
 İlk başta chatgpt ye kontrol ettir anlatımda bir yanlışlık var mı? Rest API. Çete sor cümleler düzgünmü diye(bütün tezi gözden geçirsin). 
