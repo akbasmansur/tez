@@ -1,2 +1,7 @@
 DEVOPS'u iyi bil
+mikroservisin  yaygınlaşmasında docker gibi araçların etkisi.
+mikroservis mimarisine eğilimin sektörde artmasını anlatabilirsin.
 Eğer sorarlarsa sunumda neden pratik olarak sonuçları gösteremediğini iyi bir şekilde anlat.
+
+
+bu sunum için değil ------> Talep mikroservisi neler ypar bundan bhset.

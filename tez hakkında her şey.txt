@@ -6,7 +6,8 @@
 	Teknik fizibilite çalışması 2.parağraf.
 	DEVOPS GEÇEN YERLERE bak. 
  
- 
+
+içindekiler ve kaynakçayı sor.
 Grafikler ve şekiller Sayfa sayılarını en son yaz.  
 Resimlerin yazılarını ayarlamayı unutma resim bir sayfada açıklaması diğer sayfada olmasın.
 İlk başta chatgpt ye kontrol ettir anlatımda bir yanlışlık var mı? Çete sor cümleler düzgünmü diye(bütün tezi gözden geçirsin).
