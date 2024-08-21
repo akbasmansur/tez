@@ -211,3 +211,110 @@ Bu yaklaşımı benimseyerek, gerçek bir uygulama oluşturmadan bile mikro hizm
 anlaşılmasına katkıda bulunan değerli ve bilgilendirici bir tez oluşturabilirsiniz.												*
 *********************************************************************************************************************************************************************************
 *********************************************************************************************************************************************************************************
+CHAPTERS
+INTRODUCTION
+SOFTWARE ARCHITECTURE
+1. DEFINITION
+2. BENEFITS OF SOFTWARE ARCHITECTURE
+3. TYPES OF SOFTWARE ARCHITECTURE
+3.1. Monolithic Architecture
+3.2. Service Oriented Architecture
+3.3. Microservice Architecture
+MICROSERVICES ARCHITECTURE
+1. HISTORY OF MICROSERVICES ARCHITECTURE	
+2. DEFINITION AND CHARACTERISTICS OF MICROSERVICES ARCHITECTURE
+2.1. Advantages and Disadvantages of Microservice Architecture
+2.2. Comparison of Microservice Architecture with Monolithic Architecture
+2.3. Comparison of Microservice Architecture with SOA
+3. CONCEPTS RELATED TO MICROSERVICES ARCHITECTURE
+3.1. Domain-Driven Design (DDD)
+3.2. Cloud Computing
+3.3. Docker
+3.3.1. Basic Components of Docker
+3.3.2. Virtual Machine and Docker Comparison
+3.3.2.1. Architecture
+3.3.2.2. Resource Management
+3.3.2.3. Performance
+3.3.2.4. Security
+3.4. Kubernetes
+3.4.1. Basic Components of Kubernetes
+3.4.1.1.Master Node
+3.4.1.2.Worker Node
+...
+
+For the above outline I created for the thesis, complete the part I marked with ... by evaluating my previous question.
+tez için oluşturduğum yukarıdaki outline için bir önceki sorumu da değerlendirerek ... ile işaretlediğim kısmını tamamla.
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+TEŞEKKÜR	i
+BEYAN	ii
+ÖZET	iii
+ABSTRACT	iv
+YÖNTEM	v
+İÇİNDEKİLER	vi
+ŞEKİLLER LİSTESİ	vii
+TABLOLAR LİSTESİ	ix
+KISALTMALAR	x
+GİRİŞ	1
+BİRİNCİ BÖLÜM	2
+YAZILIM MİMARİSİ KAVRAMI VE MİKROSERVİS MİMARİSİ	2
+1.	YAZILIM MİMARİSİ	2
+1.1.	Yazılım Mimarisi Tanımı	2
+1.2.	Yazılım Mimarisinin Yararları	2
+1.3.	Yazılım Mimarisi Çeşitleri	3
+1.3.1.	Monolitik Mimari	3
+1.3.2.	Servis Odaklı Mimari	3
+1.3.3.	Mikroservis Mimarisi	5
+2.	MİKROSERVİS MİMARİSİ	6
+2.1.	Mikroservis Mimarisi Tarihçesi	6
+2.2.	Mikroservis Mimarisi Tanımı ve Özellikleri	7
+2.2.1.	Mikroservis Mimarisinin Avantajları ve Dezavantajları	7
+2.2.2.	Mikroservis Mimarisinin Monolitik Mimari ile Karşılaştırılması	8
+2.2.3.	Mikroservis Mimarisinin SOA ile Karşılaştırılması	9
+2.3.	Mikroservis Mimarisiyle İlişkili Kavramlar	10
+2.3.1.	Alan Odaklı Tasarım (DDD)	10
+2.3.2.	Bulut Bilişim (Cloud Computing)	10
+2.3.3.	Docker	13
+2.3.3.1. Docker’ın Temel Bileşenleri	13
+2.3.3.2. Sanal Makine ve Docker Karşılaştırması	14
+2.3.3.2.1. Mimari	15
+2.3.3.2.2. Kaynak Yönetimi	15
+2.3.3.2.3. Performans	16
+2.3.3.2.4. Güvenlik	16
+2.3.4.	Kubernetes	16
+2.3.4.1. Kubernetes’in Temel Bileşenleri	18
+2.3.4.1.1.	Master Node	19
+2.3.4.1.2.	Worker Node	20
+2.4.	Mikroservis Mimarisi Geliştirme ve Dağıtımı	20
+2.5.	Mikroservis Mimarisi Haberleşmesi	20
+2.6.	Mikroservis Mimarisinde Kullanılan Teknolojiler	20
+2.7.	Bulut Bilişim ve Mikroservis Mimarisi	20
+2.8.	Monolitik Mimariden Mikroservis Mimarisine Geçiş	20
+İKİNCİ BÖLÜM	21
+GERÇEKLEŞTİRİLEN ÇALIŞMA	21
+1.	NOTLAR	21
+1.1.	Not	21
+1.2.	Bbbbbbbbb bbbbbb	21
+1.2.1.	Ccccccc cccccc cccccccc ccccccccccccccccccc	21
+1.2.2.	Ddddddddddd	21
+1.2.2.1.	Ddddddddddd	21
+ÜÇÜNCÜ BÖLÜM	22
+SONUÇLAR VE DEĞERLENDİRME	22
+1.	KURUM BİLGİ İŞLEM MİMARİSİ	22
+1.1.	Aaaaaa aaaaaaaaa aaaaaaaaa	22
+1.2.	Bbbbbbbbb bbbbbb	22
+1.2.1.	Ccccccc cccccc cccccccc ccccccccccccccccccc	22
+1.2.2.	Ddddddddddd	22
+1.2.2.1.	Ddddddddddd	22
+DÖRDÜNCÜ BÖLÜM	23
+UYGULAMA ÖRNEĞİ	23
+1.	KURUM BİLGİ İŞLEM MİMARİSİ	23
+1.1.	Aaaaaa aaaaaaaaa aaaaaaaaa	23
+1.2.	Bbbbbbbbb bbbbbb	23
+1.2.1.	Ccccccc cccccc cccccccc ccccccccccccccccccc	23
+1.2.2.	Ddddddddddd	23
+1.2.2.1.	Ddddddddddd	23
+SONUÇ ve ÖNERİLER	24
+KAYNAKÇA	25
+
+
+
