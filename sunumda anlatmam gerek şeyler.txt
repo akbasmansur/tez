@@ -1,7 +1,16 @@
+mikroservis normal servis farkı
 DEVOPS'u iyi bil
 mikroservisin  yaygınlaşmasında docker gibi araçların etkisi.
 mikroservis mimarisine eğilimin sektörde artmasını anlatabilirsin.
 Eğer sorarlarsa sunumda neden pratik olarak sonuçları gösteremediğini iyi bir şekilde anlat.
 
 
-bu sunum için değil ------> Talep mikroservisi neler ypar bundan bhset.
+bu sunum için değil ------> Talep mikroservisi neler yapar bunları bil.
+Monolitik ile mikroservis nasıll haberleşiyor buna bir bak.
+
+transakşın
+yaptığın uygulamada monolitik mimarinin nasıl diğer servislerle bağlantı kurduğunu sorarlar mı? onun için bir cevap bul
+mikroservis vs webservis farkını bil
+
+
+sunumu yaparken unutmamam gereken tezin amacı
