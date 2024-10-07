@@ -1,4 +1,4 @@
-mikroservis normal servis farkı
+mikroservis web/normal servis farkı
 DEVOPS'u iyi bil
 mikroservisin  yaygınlaşmasında docker gibi araçların etkisi.
 mikroservis mimarisine eğilimin sektörde artmasını anlatabilirsin.
@@ -14,3 +14,16 @@ mikroservis vs webservis farkını bil
 
 
 sunumu yaparken unutmamam gereken tezin amacı
+
+gidişat
+-temel kavramlar ne nedir ne değildir?
+yazılım mimarisi, monolitik mimari, mikroservis mimarisi, devops, tarihçesi, tarihçeyi anlatırken docker ve kubernetesi anlat.
+
+kurumun insan ve teknolojik açıdan değerlendirilmesini anlat
+
+geçiş adımlarınıda sunumda anlat
+yapılmaması gerekenlerde burada anlatılabilir.
+
+uygulamayı anlat.
+
+bu tezde ne elde ettiğini anlat.
